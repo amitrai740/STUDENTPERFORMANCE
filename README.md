@@ -46,6 +46,9 @@ The dataset used for training the machine learning model is sourced from [Kaggle
 ![laptop_price_prediction (2)](https://github.com/user-attachments/assets/fb6fe18a-cd8a-493b-9cad-288ceeddb527)
 
 
+AWS Deployment
+
+
 ### How to run project
 
 #### Step 1: Clone the project
